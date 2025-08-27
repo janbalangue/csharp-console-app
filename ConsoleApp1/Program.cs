@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("This is my first console application.");
+            Console.WriteLine("I am learning C# programming.");
         }
     }
 }

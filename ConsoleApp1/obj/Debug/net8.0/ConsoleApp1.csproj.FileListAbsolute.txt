@@ -12,3 +12,4 @@
 /Users/jaybalangue/Desktop/Code/csharp-console-app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/jaybalangue/Desktop/Code/csharp-console-app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/jaybalangue/Desktop/Code/csharp-console-app/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/jaybalangue/Desktop/Code/csharp-console-app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
